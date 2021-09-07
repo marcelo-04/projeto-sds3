@@ -82,11 +82,11 @@ const DataTable = () => {
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
-                    
+
                 </tbody>
             </table>
         </div>
     );
 }
   
-  export default DataTable;
+export default DataTable;
